@@ -1,0 +1,116 @@
+[12-May-2025 23:46:43 America/Fortaleza] Tentativa de login - Usuário: admin, Senha: 123456
+[12-May-2025 23:46:43 America/Fortaleza] Usuário encontrado: admin
+[12-May-2025 23:46:43 America/Fortaleza] Hash armazenado: $2y$10$QYYh7HlN9PXQzMURsDHjBeBM62e6JHlzNklRsFDy71cqdaBTthKWK
+[12-May-2025 23:46:43 America/Fortaleza] Senha fornecida: 123456
+[12-May-2025 23:46:44 America/Fortaleza] Verificação de senha: Válida
+[12-May-2025 23:46:44 America/Fortaleza] Login bem-sucedido: admin
+[13-May-2025 08:48:38 America/Fortaleza] Tentativa de login - Usuário: admin, Senha: 123456
+[13-May-2025 08:48:38 America/Fortaleza] Usuário encontrado: admin
+[13-May-2025 08:48:38 America/Fortaleza] Hash armazenado: $2y$10$QYYh7HlN9PXQzMURsDHjBeBM62e6JHlzNklRsFDy71cqdaBTthKWK
+[13-May-2025 08:48:38 America/Fortaleza] Senha fornecida: 123456
+[13-May-2025 08:48:38 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 08:48:38 America/Fortaleza] Login bem-sucedido: admin
+[13-May-2025 12:47:44 America/Fortaleza] Tentativa de login - Usuário: admin, Senha: 123456
+[13-May-2025 12:47:44 America/Fortaleza] Usuário encontrado: admin
+[13-May-2025 12:47:44 America/Fortaleza] Hash armazenado: $2y$10$QYYh7HlN9PXQzMURsDHjBeBM62e6JHlzNklRsFDy71cqdaBTthKWK
+[13-May-2025 12:47:44 America/Fortaleza] Senha fornecida: 123456
+[13-May-2025 12:47:44 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 12:47:44 America/Fortaleza] Login bem-sucedido: admin
+[13-May-2025 13:04:06 America/Fortaleza] Tentativa de login - Usuário: williams, Senha: 010203040506
+[13-May-2025 13:04:06 America/Fortaleza] Usuário encontrado: williams
+[13-May-2025 13:04:06 America/Fortaleza] Hash armazenado: $2y$10$m2AZJGdlxuqqsuRui2XBm.GC.c3xD9xnFYQUYJIPBw7yCA22GAFmq
+[13-May-2025 13:04:06 America/Fortaleza] Senha fornecida: 010203040506
+[13-May-2025 13:04:06 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 13:04:07 America/Fortaleza] Login bem-sucedido: williams
+[13-May-2025 13:04:53 America/Fortaleza] Tentativa de login - Usuário: williams, Senha: 010203040506
+[13-May-2025 13:04:53 America/Fortaleza] Usuário encontrado: williams
+[13-May-2025 13:04:53 America/Fortaleza] Hash armazenado: $2y$10$m2AZJGdlxuqqsuRui2XBm.GC.c3xD9xnFYQUYJIPBw7yCA22GAFmq
+[13-May-2025 13:04:53 America/Fortaleza] Senha fornecida: 010203040506
+[13-May-2025 13:04:53 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 13:04:53 America/Fortaleza] Login bem-sucedido: williams
+[13-May-2025 15:45:51 America/Fortaleza] Tentativa de login - Usuário: admin, Senha: 123456
+[13-May-2025 15:45:51 America/Fortaleza] Usuário encontrado: admin
+[13-May-2025 15:45:51 America/Fortaleza] Hash armazenado: $2y$10$QYYh7HlN9PXQzMURsDHjBeBM62e6JHlzNklRsFDy71cqdaBTthKWK
+[13-May-2025 15:45:51 America/Fortaleza] Senha fornecida: 123456
+[13-May-2025 15:45:51 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 15:45:51 America/Fortaleza] Login bem-sucedido: admin
+[13-May-2025 15:46:05 America/Fortaleza] Tentativa de login - Usuário: williams, Senha: 010203040506
+[13-May-2025 15:46:05 America/Fortaleza] Usuário encontrado: williams
+[13-May-2025 15:46:05 America/Fortaleza] Hash armazenado: $2y$10$m2AZJGdlxuqqsuRui2XBm.GC.c3xD9xnFYQUYJIPBw7yCA22GAFmq
+[13-May-2025 15:46:05 America/Fortaleza] Senha fornecida: 010203040506
+[13-May-2025 15:46:05 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 15:46:05 America/Fortaleza] Login bem-sucedido: williams
+[13-May-2025 15:50:17 America/Fortaleza] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:50:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/afagu8/public_html/supad/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:50:49 America/Fortaleza] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:50:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/afagu8/public_html/supad/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:52:09 America/Fortaleza] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:52:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/afagu8/public_html/supad/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:52:10 America/Fortaleza] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:52:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/afagu8/public_html/supad/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:53:15 America/Fortaleza] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:53:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/afagu8/public_html/supad/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:54:14 America/Fortaleza] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 15:54:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/afagu8/public_html/supad/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/afagu8/public_html/supad/dashboard.php on line 2
+[13-May-2025 16:01:12 America/Fortaleza] PHP Warning:  Undefined array key "folder" in /home2/afagu8/public_html/supad/file_manager.php on line 40
+[13-May-2025 16:01:38 America/Fortaleza] PHP Warning:  Undefined array key "folder" in /home2/afagu8/public_html/supad/file_manager.php on line 55
+[13-May-2025 16:04:32 America/Fortaleza] Tentativa de login - Usuário: admin, Senha: 123456
+[13-May-2025 16:04:32 America/Fortaleza] Usuário encontrado: admin
+[13-May-2025 16:04:32 America/Fortaleza] Hash armazenado: $2y$10$QYYh7HlN9PXQzMURsDHjBeBM62e6JHlzNklRsFDy71cqdaBTthKWK
+[13-May-2025 16:04:32 America/Fortaleza] Senha fornecida: 123456
+[13-May-2025 16:04:32 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 16:04:33 America/Fortaleza] Login bem-sucedido: admin
+[13-May-2025 16:05:05 America/Fortaleza] Tentativa de login - Usuário: everton, Senha: @Cr34tives
+[13-May-2025 16:05:05 America/Fortaleza] Usuário encontrado: everton
+[13-May-2025 16:05:05 America/Fortaleza] Hash armazenado: $2y$10$Qd/ggA47phBQcgQ1f96j3ewfhp7wsBjFG3wcmzKZzWJT0Q/ALHV1O
+[13-May-2025 16:05:05 America/Fortaleza] Senha fornecida: @Cr34tives
+[13-May-2025 16:05:05 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 16:05:05 America/Fortaleza] Login bem-sucedido: everton
+[13-May-2025 16:05:19 America/Fortaleza] Tentativa de login - Usuário: williams, Senha: 010203040506
+[13-May-2025 16:05:19 America/Fortaleza] Usuário encontrado: williams
+[13-May-2025 16:05:19 America/Fortaleza] Hash armazenado: $2y$10$m2AZJGdlxuqqsuRui2XBm.GC.c3xD9xnFYQUYJIPBw7yCA22GAFmq
+[13-May-2025 16:05:19 America/Fortaleza] Senha fornecida: 010203040506
+[13-May-2025 16:05:19 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 16:05:19 America/Fortaleza] Login bem-sucedido: williams
+[13-May-2025 20:01:43 America/Fortaleza] Tentativa de login - Usuário: everton, Senha: 123456
+[13-May-2025 20:01:43 America/Fortaleza] Usuário encontrado: everton
+[13-May-2025 20:01:43 America/Fortaleza] Hash armazenado: $2y$10$Qd/ggA47phBQcgQ1f96j3ewfhp7wsBjFG3wcmzKZzWJT0Q/ALHV1O
+[13-May-2025 20:01:43 America/Fortaleza] Senha fornecida: 123456
+[13-May-2025 20:01:43 America/Fortaleza] Verificação de senha: Inválida
+[13-May-2025 20:01:43 America/Fortaleza] Login falhou para: everton
+[13-May-2025 20:01:46 America/Fortaleza] Tentativa de login - Usuário: everton, Senha: @Cr34tives
+[13-May-2025 20:01:46 America/Fortaleza] Usuário encontrado: everton
+[13-May-2025 20:01:46 America/Fortaleza] Hash armazenado: $2y$10$Qd/ggA47phBQcgQ1f96j3ewfhp7wsBjFG3wcmzKZzWJT0Q/ALHV1O
+[13-May-2025 20:01:46 America/Fortaleza] Senha fornecida: @Cr34tives
+[13-May-2025 20:01:46 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 20:01:47 America/Fortaleza] Login bem-sucedido: everton
+[13-May-2025 20:01:59 America/Fortaleza] Tentativa de login - Usuário: williams, Senha: 010203040506
+[13-May-2025 20:01:59 America/Fortaleza] Usuário encontrado: williams
+[13-May-2025 20:01:59 America/Fortaleza] Hash armazenado: $2y$10$m2AZJGdlxuqqsuRui2XBm.GC.c3xD9xnFYQUYJIPBw7yCA22GAFmq
+[13-May-2025 20:01:59 America/Fortaleza] Senha fornecida: 010203040506
+[13-May-2025 20:01:59 America/Fortaleza] Verificação de senha: Válida
+[13-May-2025 20:01:59 America/Fortaleza] Login bem-sucedido: williams
+[15-May-2025 10:33:52 America/Fortaleza] Tentativa de login - Usuário: williams, Senha: 010203040506
+[15-May-2025 10:33:52 America/Fortaleza] Usuário encontrado: williams
+[15-May-2025 10:33:52 America/Fortaleza] Hash armazenado: $2y$10$m2AZJGdlxuqqsuRui2XBm.GC.c3xD9xnFYQUYJIPBw7yCA22GAFmq
+[15-May-2025 10:33:52 America/Fortaleza] Senha fornecida: 010203040506
+[15-May-2025 10:33:52 America/Fortaleza] Verificação de senha: Válida
+[15-May-2025 10:33:52 America/Fortaleza] Login bem-sucedido: williams
